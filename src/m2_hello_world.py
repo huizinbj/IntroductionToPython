@@ -34,7 +34,7 @@ print('Hello, World')
 #        by clicking on the blue bars.  ** Try that now. **
 #
 #     b. When you have completed a TO DO, you should change the word
-#          DONE 
+#          DONE
 #        to
 #          DONE.
 #        Try it now on line 16 above, and note that its blue bar on
