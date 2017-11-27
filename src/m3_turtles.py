@@ -14,7 +14,7 @@ Authors: David Mutchler, Dave Fisher, Valerie Galluzzi, Amanda Stouder,
 """
 ########################################################################
 #
-# TODO: 1.
+# DONE: 1.
 #  (Yes, that means for YOU to DO things per these instructions:)
 #
 # On Line 13 above, replace  PUT_YOUR_OWN_NAME_HERE  with your OWN name.
@@ -72,7 +72,7 @@ matt.pen = rg.Pen('red', 30)
 matt.speed = 10  # Faster
 matt.backward(50)
 matt.left(90)
-matt.forward(50)
+matt.forward(100)
 
 
 ########################################################################

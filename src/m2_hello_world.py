@@ -13,7 +13,7 @@ print('Hello, World')
 
 ########################################################################
 #
-# TODO: 1.
+# DONE: 1.
 #   (Yes, that means for YOU to DO things per these instructions:)
 #
 #   Run this module by right clicking anywhere in this window and select
@@ -26,7 +26,7 @@ print('Hello, World')
 
 ########################################################################
 #
-# TODO: 2.
+# DONE: 2.
 #   Notice the small horizontal BLUE bars on the scrollbar-like thing
 #   on the right.  Each blue bar indicates a TO DO in this module.
 #
